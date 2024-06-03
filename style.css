@@ -11,6 +11,11 @@ body{
   background-size: cover;
 }
 
+::selection {
+  color: #fff;
+  background: #83cb8d;
+}
+
 .wrapper{
     position: relative;
     max-width: 450px;
